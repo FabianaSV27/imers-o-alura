@@ -1,0 +1,10 @@
+/*declara as variaveis iguais e pode substituir no css principal para economizar codigo*/
+:root{
+    /*font*/
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /*color*/
+    --bg-icon: #131313;
+    --bd-arrow-color: rgba(0,0,07);
+}
+
